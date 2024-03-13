@@ -1,7 +1,7 @@
 # NSU_OS_24_PART_1
 (will!) contains 8x2 advocated (i hope) labs from 2024
 
-1.1 1.2)Done and Advocated
+1.1 1.2)Done and Advocated\n
 2.1 2.2)Done and Advocated
 3.1 3.2)Done and Advocated
 4.1)Done
